@@ -1,0 +1,6 @@
+book_library:
+    resource: "@bookLibraryBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+
